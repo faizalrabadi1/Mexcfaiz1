@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background subtle shadow for the symbol -->
+    <path
+        android:fillColor="#15000000"
+        android:pathData="M31,34 L77,34 L77,74 L31,74 Z M48,42 L68,42 L52,58 L70,58 L38,82 L48,62 L36,62 Z" />
+
+    <!-- Lightning Bolt representation of Ultra-Fast Scalping -->
+    <path
+        android:fillColor="#386A20"
+        android:pathData="M52,18 L72,18 L55,46 L73,46 L38,86 L49,53 L36,53 Z" />
+
+    <!-- Candlestick chart elements in background -->
+    <path
+        android:fillColor="#006D31"
+        android:pathData="M24,42 L26,42 L26,58 L24,58 Z M25,36 L25,42 Z M25,58 L25,64 Z" />
+    <path
+        android:fillColor="#006D31"
+        android:pathData="M81,28 L83,28 L83,44 L81,44 Z M82,22 L82,28 Z M82,44 L82,50 Z" />
+    <path
+        android:fillColor="#BA1A1A"
+        android:pathData="M16,60 L18,60 L18,78 L16,78 Z M17,54 L17,60 Z M17,78 L17,84 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "MEXC Futures Scalper",
+  "description": "A Perpetual Futures algotrading scalper bot visualizer, trade simulator, config manager, and Python CCXT code exporter for MEXC exchange.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
